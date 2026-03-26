@@ -63,4 +63,4 @@ A resenha também traça uma ponte entre as ideias do Parnas e arquiteturas mode
 
 ---
 
-*Atividade acadêmica — 4º Semestre de Engenharia de Software, PUC Minas, 2025.*
+*Atividade acadêmica — 4º Semestre de Engenharia de Software, PUC Minas, 2026.*
